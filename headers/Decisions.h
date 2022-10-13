@@ -1,6 +1,7 @@
 // include pre-processor directives
 #define NUM 34568.80
 #include <stdbool.h>
+#include <stdio.h>
 
 // include function declarations
 void decisions1(void);
