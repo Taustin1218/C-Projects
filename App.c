@@ -3,6 +3,7 @@
 // include header file
 #include "./headers/BasicIO.h"
 #include "./headers/Decisions.h"
+#include "./headers/Loops.h"
 
 int main(void) {
     // puts("Hello World!!!");
@@ -15,6 +16,12 @@ int main(void) {
     // decisions3();
     // decisions4();
     // decisions5();
-    decisions6();
+    // decisions6();
+    // testing Loops functionality
+    loops1();
+    loops2();
+    loops3();
+    loops4();
+    loops5();
 }
 
